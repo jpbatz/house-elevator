@@ -17,9 +17,11 @@ We cannot endanger the lives of our passengers, so if we get erronous inputs, ou
 1. Fork this repo
 1. Clone it from your github page
 1. In Terminal, run `npm install`
+1. npm install -g gulp
 1. Run Gulp/Mocha with `gulp` in Terminal
 1. Do your work in the `elevator.js` file
 1. Commit each time you pass a test
 1. Make all the tests pass
 1. Once complete, push it to your remote
 1. You have 1 Hour to complete this.
+
